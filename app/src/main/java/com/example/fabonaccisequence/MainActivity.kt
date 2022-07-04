@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
 
     }
     fun fabonacciNumbers(){
-        val n = 50
+        val n = 100
         var i1 =0
         var i2= 1
 
